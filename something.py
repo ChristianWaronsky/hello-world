@@ -1,5 +1,5 @@
-name = input("whats your name?")
-something = input("Whats Something?")
+name = input("whats your name? ")
+something = input("Whats Something? ")
 something = something.upper();
 print(something+"!!!!!!!!!");
-print(name+"Why are you yelling?");
+print("Why are you yelling, " + name +"?");
