@@ -1,4 +1,5 @@
 # hello-world
+<<<<<<< HEAD
 # Program Purpose
    This program will ask for your name and something. It will then print out something in all uppercase letters and ask you why you are yelling. 
 
@@ -14,3 +15,9 @@
 # Authors 
   Adam Wachowicz - University of Pittsburgh Student
   Christian Waronsky - University of Pittsburgh Student
+=======
+repository for Big Ideas 0010.
+The program takes a name and something and then asks why the user is yelling.
+Christian Waronsky
+Adam Wachowicz
+>>>>>>> 8ec57bdfad3903eba20ed02155684562dc2c1baa
